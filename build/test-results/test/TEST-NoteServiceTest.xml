@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NoteServiceTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2022-11-12T18:36:40" hostname="DESKTOP-1M1A4OM" time="0.19">
+  <properties/>
+  <testcase name="addComment_ShouldThrow" classname="NoteServiceTest" time="0.007"/>
+  <testcase name="updateComment_ShouldThrow_NoteNotFound" classname="NoteServiceTest" time="0.001"/>
+  <testcase name="getNoteById_ShouldThrow" classname="NoteServiceTest" time="0.003"/>
+  <testcase name="updateComment_ShouldThrow_CommentNotFound" classname="NoteServiceTest" time="0.002"/>
+  <testcase name="addComment" classname="NoteServiceTest" time="0.063"/>
+  <testcase name="delete" classname="NoteServiceTest" time="0.001"/>
+  <testcase name="update_NotUpdated" classname="NoteServiceTest" time="0.0"/>
+  <testcase name="update" classname="NoteServiceTest" time="0.001"/>
+  <testcase name="getNoteById" classname="NoteServiceTest" time="0.0"/>
+  <testcase name="updateComment" classname="NoteServiceTest" time="0.002"/>
+  <testcase name="restoreComment_ShouldThrow_CommentNotFound" classname="NoteServiceTest" time="0.003"/>
+  <testcase name="restoreComment" classname="NoteServiceTest" time="0.002"/>
+  <testcase name="deleteComment" classname="NoteServiceTest" time="0.002"/>
+  <testcase name="getCommentsByNoteId" classname="NoteServiceTest" time="0.016"/>
+  <testcase name="getCommentsByNoteId_ShouldThrow_NoComments" classname="NoteServiceTest" time="0.003"/>
+  <testcase name="delete_ShouldThrow_NoteNotFound" classname="NoteServiceTest" time="0.002"/>
+  <testcase name="deleteComment_ShouldThrow_CommentNotFound" classname="NoteServiceTest" time="0.002"/>
+  <testcase name="getDeletedComments" classname="NoteServiceTest" time="0.003"/>
+  <testcase name="getCommentsByNoteId_ShouldThrow" classname="NoteServiceTest" time="0.001"/>
+  <testcase name="deleteComment_ShouldThrow_NoteNotFound" classname="NoteServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

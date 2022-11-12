@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CrudServiceTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-11-12T18:36:40" hostname="DESKTOP-1M1A4OM" time="0.166">
+  <properties/>
+  <testcase name="update_IdNotTheSame" classname="CrudServiceTest" time="0.157"/>
+  <testcase name="delete" classname="CrudServiceTest" time="0.001"/>
+  <testcase name="update" classname="CrudServiceTest" time="0.001"/>
+  <testcase name="delete_ShouldThrow" classname="CrudServiceTest" time="0.001"/>
+  <testcase name="add" classname="CrudServiceTest" time="0.005"/>
+  <testcase name="get" classname="CrudServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
